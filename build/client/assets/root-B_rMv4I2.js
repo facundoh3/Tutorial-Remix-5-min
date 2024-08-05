@@ -1,0 +1,1 @@
+import{n as s,M as a,L as e,O as n,S as r}from"./components-DwMFjIJE.js";function i(){return s.jsxs("html",{children:[s.jsxs("head",{children:[s.jsx("link",{rel:"icon",href:"data:image/x-icon;base64,AA"}),s.jsx(a,{}),s.jsx(e,{})]}),s.jsxs("body",{children:[s.jsx("h1",{children:"Que onda Locuras Intergalacticas"}),s.jsx(n,{}),s.jsx(r,{})]})]})}export{i as default};
